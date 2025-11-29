@@ -1,0 +1,18 @@
+# config.yaml
+
+paths:
+  # Tu raíz principal
+  root: "C:/Users/reinkeb/MetLife/Planning - Proyecto Planning 2.0"
+  task_folder: "Tarea 2 - Actualizacion de P&L + UM"
+  output_subfolder: "Reportes" 
+
+files:
+  filtros_exact_name: "Filtros Consolidado.xlsx"
+  template_pl_name: "P&L ARG.xlsx"
+  nii_prefix: "ARG_NII_HYP"
+  expenses_prefix: "ARG_EXPENSES_HYP"
+  taxes_prefix: "ARG_INCOMETAX_HYP"
+
+  # Nombres de salida
+  output_pl_name: "P&L ARG.xlsx"
+  output_um_name: "Reporte UM P&L.xlsx"

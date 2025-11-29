@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Carpetas de entorno virtual
+.venv/
+
+# Carpetas de datos locales (Contienen archivos grandes/sensibles)
+notebooks/
+# Ignoramos todos los archivos .xlsx, .csv, etc. por seguridad
+*.[xlsX]
+*.[csV]
+
+# ARCHIVO EXCLUÍDO DE LA VERSIÓN FINAL (API)
+tarea2/sharepoint_client.py
