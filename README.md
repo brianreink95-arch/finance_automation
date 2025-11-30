@@ -8,6 +8,7 @@ Este proyecto automatiza la carga, procesamiento (Pandas) y actualización de re
 
 El código está organizado en el paquete principal **`tarea2`**, con la configuración separada en `config.yml`.
 
+```text
 finance_automation/             # (Raíz)
 ├── config.yml                  # Parámetros estáticos (rutas, nombres de archivos fijos)
 ├── main.py                     # Ejecutable principal
