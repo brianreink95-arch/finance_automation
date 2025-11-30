@@ -37,16 +37,21 @@ Abre tu terminal en la carpeta raíz del proyecto y ejecuta:
 1.  **Crear y Activar el Entorno Virtual:**
     
     **Windows (PowerShell)**
-    `python -m venv .venv`
-    `.\.venv\Scripts\activate`
+    ```bash
+    python -m venv .venv
+    .\.venv\Scripts\activate
+    ```
     
     **Linux/macOS**
-    `python3 -m venv .venv`
-    `source .venv/bin/activate`
+    ```bash
+    python3 -m venv .venv
+    source .venv/bin/activate
+    ```
 
 2.  **Instalar Dependencias:**
-    
-    `pip install -r requirements.txt`
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 
 ### 2.2. Configuración de Rutas (Local)
@@ -69,9 +74,9 @@ El script requiere obligatoriamente el **año** y el **mes numérico** como argu
 | `--month` | `int` | Mes numérico (1-12). | `8` (para Agosto) |
 
 **Ejemplo de ejecución:**
-
-`python main.py --year 2025 --month 8`
-
+```bash
+python main.py --year 2025 --month 8
+```
 
 ---
 
