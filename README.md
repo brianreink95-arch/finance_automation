@@ -21,7 +21,7 @@ finance_automation/             # (Raíz)
 │   └── reporter.py             # Lógica para Openpyxl y guardar los Outputs
 │
 ├── .venv/                      # Entorno virtual (IGNORADO por Git)
-└── data/                       # Carpeta de trabajo local (IGNORADA por Git)
+└── notebooks/                  # Carpeta de trabajo local (IGNORADA por Git)
 ```
 
 ---
@@ -70,7 +70,7 @@ El script requiere obligatoriamente el **año** y el **mes numérico** como argu
 
 | Parámetro | Tipo | Descripción | Ejemplo |
 | :--- | :--- | :--- | :--- |
-| `--year` | `str` | Año de procesamiento. | `2025` |
+| `--year` | `int` | Año de procesamiento. | `2025` |
 | `--month` | `int` | Mes numérico (1-12). | `8` (para Agosto) |
 
 **Ejemplo de ejecución:**
