@@ -22,7 +22,7 @@ finance_automation/             # (Raíz)
 │
 ├── .venv/                      # Entorno virtual (IGNORADO por Git)
 └── data/                       # Carpeta de trabajo local (IGNORADA por Git)
-
+```
 
 ---
 
