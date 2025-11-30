@@ -36,27 +36,27 @@ Abre tu terminal en la carpeta raíz del proyecto y ejecuta:
 
 1.  **Crear y Activar el Entorno Virtual:**
     
-    # Windows (PowerShell)
-    python -m venv .venv
-    .\.venv\Scripts\activate
+    **Windows (PowerShell)**
+    `python -m venv .venv`
+    `.\.venv\Scripts\activate`
     
-    # Linux/macOS
-    # python3 -m venv .venv
-    # source .venv/bin/activate
+    **Linux/macOS**
+    `python3 -m venv .venv`
+    `source .venv/bin/activate`
 
 2.  **Instalar Dependencias:**
     
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 
 ### 2.2. Configuración de Rutas (Local)
 
 Antes de ejecutar, debes ajustar la variable `root` en el archivo **`config.yml`** para que apunte a la ruta de tu carpeta sincronizada de OneDrive.
 
-# config.yml
+#### config.yml
 paths:
-  # Asegúrate que esta ruta sea la ABSOLUTA de tu carpeta local
-  root: "C:/Users/reinkeb/MetLife/Planning - Proyecto Planning 2.0"
+  **Asegúrate que esta ruta sea la ABSOLUTA de tu carpeta local**
+  `root: "C:/.../Planning - Proyecto Planning 2.0"`
 
 
 ### 2.3. Ejecución del Proceso
@@ -70,7 +70,7 @@ El script requiere obligatoriamente el **año** y el **mes numérico** como argu
 
 **Ejemplo de ejecución:**
 
-python main.py --year 2025 --month 8
+`python main.py --year 2025 --month 8`
 
 
 ---
@@ -80,8 +80,11 @@ python main.py --year 2025 --month 8
 El script realiza las siguientes acciones:
 
 1.  **Setup (`settings.py`):** Toma `2025` y `8` y resuelve la ruta completa de la carpeta de Input a: `.../Tarea 2/.../2025/08 - Agosto`.
+
 2.  **Load (`loader.py`):** Escanea la carpeta `08 - Agosto` para encontrar archivos que comiencen con los prefijos definidos (ej: `ARG_NII_HYP`).
+
 3.  **Process (`processor.py`):** Ejecuta la lógica de Merge, GroupBy (Roll Up, UM) y calcula los totales.
+
 4.  **Report (`reporter.py`):**
     * Abre el template P&L (`P&L ARG.xlsx`) usando `openpyxl`.
     * Busca la columna `J` (correspondiente a `mes=8`) y la fila de cada cuenta.
