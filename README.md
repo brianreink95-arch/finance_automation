@@ -78,6 +78,18 @@ El script requiere obligatoriamente el **año** y el **mes numérico** como argu
 python main.py --year 2025 --month 8
 ```
 
+### 2.4. Generar Config De Cuentas
+
+Task 5 usará un archivo local con todas las cuentas únicas de la hoja `Accounts` del archivo `Filtros Consolidado.xlsx`.
+
+Puedes regenerarlo manualmente con:
+
+```bash
+python -m tarea5.accounts_config
+```
+
+Además, `main.py` lo genera automáticamente si todavía no existe.
+
 ---
 
 ## 3. ⚙️ Flujo del Proceso

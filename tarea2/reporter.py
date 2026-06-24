@@ -19,19 +19,17 @@ def _encontrar_columna_mes(sheet, mes_objetivo: int) -> str:
         str: Letra de la columna (ej: 'J').
     """
     fila_fechas = 3 
-    
-    # Recorremos solo la fila donde deberían estar las fechas
-    for cell in sheet.iter_rows(min_row=fila_fechas, max_row=fila_fechas, values_only=False):
-        for cell_obj in cell:
-            # Verificamos que el valor sea un objeto de tipo datetime
-            if isinstance(cell_obj.value, datetime):
-                # Si la fecha coincide con el mes que buscamos
-                if cell_obj.value.month == mes_objetivo:
-                    return get_column_letter(cell_obj.column)
-            # También comprobamos si el valor es un string que se parece a un mes
-            elif isinstance(cell_obj.value, str) and str(mes_objetivo).zfill(2) in cell_obj.value:
-                # Fallback, aunque confiar en datetime es mejor
-                return get_column_letter(cell_obj.column)
+
+    header_row = next(sheet.iter_rows(min_row=fila_fechas, max_row=fila_fechas, values_only=False))
+
+    for cell_obj in header_row:
+        if isinstance(cell_obj.value, datetime) and cell_obj.value.month == mes_objetivo:
+            return get_column_letter(cell_obj.column)
+
+    month_token = f"/{str(mes_objetivo).zfill(2)}/"
+    for cell_obj in header_row:
+        if isinstance(cell_obj.value, str) and month_token in cell_obj.value:
+            return get_column_letter(cell_obj.column)
                 
     raise ValueError(f"❌ No se encontró la columna para el mes {mes_objetivo} en la fila {fila_fechas}.")
 

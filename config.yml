@@ -4,11 +4,14 @@ paths:
   # Tu raíz principal
   root: "C:/Users/reinkeb/MetLife/Planning - Proyecto Planning 2.0"
   task_folder: "Tarea 2 - Actualizacion de P&L + UM"
+  task5_folder: "Tarea 5 - Forecast"
   output_subfolder: "Reportes" 
 
 files:
   filtros_exact_name: "Filtros Consolidado.xlsx"
+  accounts_config_name: "accounts_config.yml"
   template_pl_name: "P&L ARG.xlsx"
+  forecast_input_name: "Forecast_Marzo.xlsx"
   nii_prefix: "ARG_NII_HYP"
   expenses_prefix: "ARG_EXPENSES_HYP"
   taxes_prefix: "ARG_INCOMETAX_HYP"

@@ -1,0 +1,966 @@
+accounts:
+  '5668000002':
+    Descripcion Cuenta: Mantenimiento hardware
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '5672000119':
+    Descripcion Cuenta: Gastos Varios
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6101000010':
+    Descripcion Cuenta: Remuneracion Comercial
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6101000100':
+    Descripcion Cuenta: Remuneraciones Administrativas
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6103000110':
+    Descripcion Cuenta: Vacaciones Administrativos
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6103700120':
+    Descripcion Cuenta: Vacaciones Comercial
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6104000060':
+    Descripcion Cuenta: Indemnizaciones
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261002 - Separation&Relocation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6104000070':
+    Descripcion Cuenta: Indeminaciones Comercial
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261002 - Separation&Relocation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6107000100':
+    Descripcion Cuenta: Gratificaciones
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6111002500':
+    Descripcion Cuenta: Remuneraciones Agencias
+    Agrupacion P&L: Field Compensation;
+    Roll Up: 2290001 - Field Comp, Benefits & Taxes
+    "Agrupaci\xF3n UM": 6161000000 - Field Comp, Benefits & Taxes
+  '6111002510':
+    Descripcion Cuenta: Vacaciones AE
+    Agrupacion P&L: Field Compensation;
+    Roll Up: 2290001 - Field Comp, Benefits & Taxes
+    "Agrupaci\xF3n UM": 6161000000 - Field Comp, Benefits & Taxes
+  '6115002180':
+    Descripcion Cuenta: Programa reconocimientos
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261003 - Other EE Costs
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6121000140':
+    Descripcion Cuenta: Riesgo de Trabajo
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6123005010':
+    Descripcion Cuenta: Medicina prepaga
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6125000110':
+    Descripcion Cuenta: Beneficios al Personal
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6126002630':
+    Descripcion Cuenta: Seguros de Vida Agencias
+    Agrupacion P&L: Field Compensation;
+    Roll Up: 2290001 - Field Comp, Benefits & Taxes
+    "Agrupaci\xF3n UM": 6161000000 - Field Comp, Benefits & Taxes
+  '6131000200':
+    Descripcion Cuenta: Capacitacion administrativa
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261003 - Other EE Costs
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6131002250':
+    Descripcion Cuenta: "Capacitaci\xF3n Comercial"
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261003 - Other EE Costs
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6141002060':
+    Descripcion Cuenta: Incentivos y Premios
+    Agrupacion P&L: Other Variable Expenses;
+    Roll Up: 2271506 - EAP
+    "Agrupaci\xF3n UM": 6140000000 - Expense Allowance Plan
+  '6151000030':
+    Descripcion Cuenta: Incentivo corporativo
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261004 - Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6151000050':
+    Descripcion Cuenta: Gratificaciones
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261004 - Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6153000030':
+    Descripcion Cuenta: Cargas Sociales administrativo bonus
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261004 - Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6181000050':
+    Descripcion Cuenta: Honorarios directores
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6191000010':
+    Descripcion Cuenta: Cargas Sociales Administrativo
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6191002510':
+    Descripcion Cuenta: Cargas Sociales Agencias
+    Agrupacion P&L: Field Compensation;
+    Roll Up: 2290001 - Field Comp, Benefits & Taxes
+    "Agrupaci\xF3n UM": 6161000000 - Field Comp, Benefits & Taxes
+  '6191700010':
+    Descripcion Cuenta: Cargas Sociales Comercial
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6205000010':
+    Descripcion Cuenta: Alquiler
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6250000040':
+    Descripcion Cuenta: Losses on sale of Assets-CoUse
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278009 - Other - Other
+    "Agrupaci\xF3n UM": OTHER_DIRECT - Other Miscell Direct Exp
+  '6251000010':
+    Descripcion Cuenta: Amortiz.Muebles Y Utile
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6251000060':
+    Descripcion Cuenta: Amortizacion Rodados
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6251000100':
+    Descripcion Cuenta: "Amort Equipos Computaci\xF3n"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6251000300':
+    Descripcion Cuenta: IT Software Capitalization account
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278007 - IT Related & Call Center
+    "Agrupaci\xF3n UM": OPEXP61100 - IT Software Other
+  '6251000600':
+    Descripcion Cuenta: Amortizaciones Otras
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278007 - IT Related & Call Center
+    "Agrupaci\xF3n UM": OPEXP61100 - IT Software Other
+  '6251005100':
+    Descripcion Cuenta: Amortiz. Inm.  Alico Propio
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6255000100':
+    Descripcion Cuenta: "Servicios de impresi\xF3n"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6259000200':
+    Descripcion Cuenta: Mejoras Inmuebles
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6271000020':
+    Descripcion Cuenta: Furniture/Exp Asset Acct
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6271000100':
+    Descripcion Cuenta: EDP Equip/Exp Asset Acct
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6275000010':
+    Descripcion Cuenta: Amortizaciones Software
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278003 - Software
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6275000150':
+    Descripcion Cuenta: Mantenimiento software
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278003 - Software
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000010':
+    Descripcion Cuenta: Viajes
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000100':
+    Descripcion Cuenta: Eventos y conferencias
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000500':
+    Descripcion Cuenta: Gastos de Representacion
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000510':
+    Descripcion Cuenta: Obsequios 3ros.
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000520':
+    Descripcion Cuenta: Refrigerios
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301000540':
+    Descripcion Cuenta: Entretenim y regalos gubern
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301002000':
+    Descripcion Cuenta: Viaticos y movilidad comercial
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6301002200':
+    Descripcion Cuenta: Eventos comerciales
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6305002000':
+    Descripcion Cuenta: Viaticos y movilidad administrativa
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6307000030':
+    Descripcion Cuenta: Gastos automoviles
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6401000010':
+    Descripcion Cuenta: "Honorarios C\xE1maras empresariales"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6421000010':
+    Descripcion Cuenta: Comisiones y gastos bancarios
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6421000020':
+    Descripcion Cuenta: Honorarios cobranzas fijos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6421000050':
+    Descripcion Cuenta: Custodia de valores
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6421002000':
+    Descripcion Cuenta: Gastos por liquidacion de rentas
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000200':
+    Descripcion Cuenta: Publicidad Sponsoreo
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278001 - Advertising
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000300':
+    Descripcion Cuenta: "Publicidad Campa\xF1as"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278001 - Advertising
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000410':
+    Descripcion Cuenta: Gastos internet- Digital
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278001 - Advertising
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000500':
+    Descripcion Cuenta: Uso Res Facult Prom y Publicid
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278001 - Advertising
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000520':
+    Descripcion Cuenta: "Merchandising y Folleter\xEDa"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278001 - Advertising
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6441000550':
+    Descripcion Cuenta: Call center CD
+    Agrupacion P&L: Mass Marketing/Direct Marketing;
+    Roll Up: 2290002 - Variable Marketing
+    "Agrupaci\xF3n UM": TOT_VAR_MARKETING - Total Variable Marketing
+  '6441000710':
+    Descripcion Cuenta: Call center DM
+    Agrupacion P&L: Mass Marketing/Direct Marketing;
+    Roll Up: 2290002 - Variable Marketing
+    "Agrupaci\xF3n UM": TOT_VAR_MARKETING - Total Variable Marketing
+  '6441000770':
+    Descripcion Cuenta: Gastos Exclusividad
+    Agrupacion P&L: Mass Marketing/Direct Marketing;
+    Roll Up: 2290002 - Variable Marketing
+    "Agrupaci\xF3n UM": TOT_VAR_MARKETING - Total Variable Marketing
+  '6451000010':
+    Descripcion Cuenta: Honorarios Abogados
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6452001000':
+    Descripcion Cuenta: Demandas judiciales
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278006 - Other Noncontrollable
+    "Agrupaci\xF3n UM": 6480000000 - Legal Settlements-Reserve Chg
+  '6452001010':
+    Descripcion Cuenta: Demandas Laborales
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278006 - Other Noncontrollable
+    "Agrupaci\xF3n UM": 6480000000 - Legal Settlements-Reserve Chg
+  '6452701000':
+    Descripcion Cuenta: Demandas por Pesificacion
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278006 - Other Noncontrollable
+    "Agrupaci\xF3n UM": 6480000000 - Legal Settlements-Reserve Chg
+  '6461000010':
+    Descripcion Cuenta: Honorarios Actuarios
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271100 - Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6461000020':
+    Descripcion Cuenta: "Honorarios consultor\xEDa"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271100 - Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6461000050':
+    Descripcion Cuenta: Public Accountants
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6461000060':
+    Descripcion Cuenta: Inteligencia de Mercado
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6461000100':
+    Descripcion Cuenta: Programadores Externos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271101 - Programmers
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6461000150':
+    Descripcion Cuenta: Consultoras de Reclutamiento
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6461000170':
+    Descripcion Cuenta: Gastos de reclutamiento
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6461000400':
+    Descripcion Cuenta: Leads
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271102 - TPA
+    "Agrupaci\xF3n UM": 6462200000 - Third Party Admin
+  '6461000500':
+    Descripcion Cuenta: Servicios IT
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271103 - Contracted Services
+    "Agrupaci\xF3n UM": 6469000000 - Contracted Services Total 1
+  '6461000740':
+    Descripcion Cuenta: Asesores impositivos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6461000770':
+    Descripcion Cuenta: Prensa
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6465000010':
+    Descripcion Cuenta: Personal temporario
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6465000020':
+    Descripcion Cuenta: Honorarios Escribanos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6471000010':
+    Descripcion Cuenta: Gastos Medicos (UW)
+    Agrupacion P&L: Other Variable Expenses;
+    Roll Up: 2290006 - Other Sales Related
+    "Agrupaci\xF3n UM": TOT_OTH_SLS_RELATED - Total Other Sales Related
+  '6475000100':
+    Descripcion Cuenta: Gastos Medicos (Siniestros)
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6481000010':
+    Descripcion Cuenta: Op Lease Exp-SL Lease Pmts-RE
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278011 - Op Lease Costs
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6481000180':
+    Descripcion Cuenta: "Clearing\_ - Variable Payments"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278012 - Op Lease Variable Payment Exp
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6491005100':
+    Descripcion Cuenta: Seguro de Edificios
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6491005200':
+    Descripcion Cuenta: Gas/Electricidad/Agua
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6491005210':
+    Descripcion Cuenta: Expensas
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6492005020':
+    Descripcion Cuenta: Vigilancia
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6494000090':
+    Descripcion Cuenta: Capital Lease Offset Credit
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6501000010':
+    Descripcion Cuenta: "Impresi\xF3n formularios"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6501000100':
+    Descripcion Cuenta: "Impresi\xF3n y Envio de Polizas"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6501000110':
+    Descripcion Cuenta: "Impresi\xF3n y Envios de Polizas repricing"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6521000010':
+    Descripcion Cuenta: Utiles de Oficina
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6531000010':
+    Descripcion Cuenta: Suscripciones
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6541000010':
+    Descripcion Cuenta: Correspondencia
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6545000010':
+    Descripcion Cuenta: Fletes
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6561000010':
+    Descripcion Cuenta: "Servicios Telefon\xEDa"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6561000020':
+    Descripcion Cuenta: Telefonia celular
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6565000010':
+    Descripcion Cuenta: Enlaces y comunicaciones
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6565000020':
+    Descripcion Cuenta: "Mantenimiento telefon\xEDa"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6565000040':
+    Descripcion Cuenta: "Telefon\xEDa y comunicaciones"
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278002 - Print Paper Post & Phone
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6595000140':
+    Descripcion Cuenta: "Seguros de cauci\xF3n"
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6595000150':
+    Descripcion Cuenta: Seguros de Vida
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6595000160':
+    Descripcion Cuenta: Honorarios Consultores - ADP
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271102 - TPA
+    "Agrupaci\xF3n UM": 6462200000 - Third Party Admin
+  '6601000420':
+    Descripcion Cuenta: Comision por Cobranza Variable
+    Agrupacion P&L: Other Variable Expenses;
+    Roll Up: 2290003 - Group Pass Thru
+    "Agrupaci\xF3n UM": 6600000000 - Group Pass Thru
+  '6641001190':
+    Descripcion Cuenta: Sundries
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278009 - Other - Other
+    "Agrupaci\xF3n UM": OTHER_DIRECT - Other Miscell Direct Exp
+  '6641001330':
+    Descripcion Cuenta: Gastos diferencias operativas
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278009 - Other - Other
+    "Agrupaci\xF3n UM": OTHER_DIRECT - Other Miscell Direct Exp
+  '6691000010':
+    Descripcion Cuenta: AJUSTES
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6691000020':
+    Descripcion Cuenta: Hypo tax
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6691000050':
+    Descripcion Cuenta: Limpieza
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6691000120':
+    Descripcion Cuenta: Gastos legales y certificaciones
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6691000190':
+    Descripcion Cuenta: Mantenimiento de oficinas
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6691002100':
+    Descripcion Cuenta: Incentivos y Premios
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261003 - Other EE Costs
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6691005310':
+    Descripcion Cuenta: Recupero NII
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278009 - Other - Other
+    "Agrupaci\xF3n UM": OTHER_DIRECT - Other Miscell Direct Exp
+  '6692000610':
+    Descripcion Cuenta: Donaciones gastos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6692000630':
+    Descripcion Cuenta: Donaciones
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6696000570':
+    Descripcion Cuenta: Incobrables
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278009 - Other - Other
+    "Agrupaci\xF3n UM": OTHER_DIRECT - Other Miscell Direct Exp
+  '6701900140':
+    Descripcion Cuenta: Servicios afiliadas locales
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6701900160':
+    Descripcion Cuenta: In-Reg TP State Taxes
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2290132 - MSA Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6701900210':
+    Descripcion Cuenta: Reintegro De Gtos M.Ext (URU)
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290107 - MSA Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6701900250':
+    Descripcion Cuenta: Reintegro De Gtos M.Ext (URU)
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701900470':
+    Descripcion Cuenta: Country to US TP - Rent SLA
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290117 - MSA Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701900830':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290117 - MSA Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701900990':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290119 - MSA IT Related & Call Center
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701901360':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290119 - MSA IT Related & Call Center
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701901420':
+    Descripcion Cuenta: AffTP-GSAFromMIHI-Travel
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290112 - MSA Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701901440':
+    Descripcion Cuenta: AffTP-GSAFromMIHI-Other
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701901590':
+    Descripcion Cuenta: Country to US TP - Rent SLA PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290117 - MSA Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701902110':
+    Descripcion Cuenta: Country to US TP - Emp Costs
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6701902120':
+    Descripcion Cuenta: Country to US TP - Travel
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290112 - MSA Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902130':
+    Descripcion Cuenta: Country to US TP - Oth Labor
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290107 - MSA Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6701902140':
+    Descripcion Cuenta: Country to US TP - Other
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902215':
+    Descripcion Cuenta: Country to US TP - Corp Inc
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290105 - MSA Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6701902310':
+    Descripcion Cuenta: Country to US TP -Emp Costs PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6701902315':
+    Descripcion Cuenta: Country to US TP - Corp Inc PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290105 - MSA Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6701902320':
+    Descripcion Cuenta: Country to US TP - Travel PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290112 - MSA Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902330':
+    Descripcion Cuenta: Country to US TP -Oth Labor PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290107 - MSA Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6701902340':
+    Descripcion Cuenta: Country to US TP - Other PT
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902410':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6701902415':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290105 - MSA Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6701902420':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290112 - MSA Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902430':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290107 - MSA Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6701902440':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902510':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6701902515':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290105 - MSA Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6701902520':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290112 - MSA Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701902530':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290107 - MSA Consultants
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6701902540':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290116 - MSA Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6701903000':
+    Descripcion Cuenta: AffTP Country to US COI Costs
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290141 - MSA Other - Other
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6701903432':
+    Descripcion Cuenta: Outbound
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290117 - MSA Rent and related expenses
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6711000070':
+    Descripcion Cuenta: Gastos diferencias operativas
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6721000500':
+    Descripcion Cuenta: Cap Software Acq Costs Contra
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278007 - IT Related & Call Center
+    "Agrupaci\xF3n UM": OPEXP61100 - IT Software Other
+  '6731000010':
+    Descripcion Cuenta: Law Services
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278008 - Other SLAs
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6750000160':
+    Descripcion Cuenta: Honorarios auditores externos
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6750900030':
+    Descripcion Cuenta: Fee Queretaro (Proy Agua)
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2290600 - GOSC DIRECT Other SLA
+    "Agrupaci\xF3n UM": TOTAL_SLA - Total SLA
+  '6910000040':
+    Descripcion Cuenta: Servicios comerciales tercerizados
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271102 - TPA
+    "Agrupaci\xF3n UM": 6462200000 - Third Party Admin
+  '6951000100':
+    Descripcion Cuenta: Ingresos brutos
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278501 - Premium Tax
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6961000010':
+    Descripcion Cuenta: Impuesto al valor agregado
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6961000030':
+    Descripcion Cuenta: Sellos
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6963000010':
+    Descripcion Cuenta: Tasas Municipales
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6963000100':
+    Descripcion Cuenta: Tasas Municipales
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6967000020':
+    Descripcion Cuenta: Impuesto a los debitos y creditos bancarios
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6967000030':
+    Descripcion Cuenta: Multas
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6967000040':
+    Descripcion Cuenta: Service Tax Expense
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6967000130':
+    Descripcion Cuenta: Archivo externo
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278004 - Other Discretionary
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6968000020':
+    Descripcion Cuenta: Impuestos (Imp. PAIS)
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6969000030':
+    Descripcion Cuenta: Tasa Bomberil
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6701905100':
+    Descripcion Cuenta: Intra Region TP - Emp Costs
+    Agrupacion P&L: Affiliated Expenses;
+    Roll Up: 2290101 - MSA Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6160000640':
+    Descripcion Cuenta: Commissions - ContAgent & Brok
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271505 - Other Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6161000600':
+    Descripcion Cuenta: Comm-First Year-Direct
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6161000620':
+    Descripcion Cuenta: Comm First Yr Direct - Mgr
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6161709990':
+    Descripcion Cuenta: AccrComm-Other
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271505 - Other Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162000530':
+    Descripcion Cuenta: SERVICE FEES
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271505 - Other Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162000620':
+    Descripcion Cuenta: Comm-Renewals-Direct
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162000630':
+    Descripcion Cuenta: Commission Direct 1st Yr Exces
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162031450':
+    Descripcion Cuenta: CEDED Renewal Comm
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271503 - Reinsurance Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162700630':
+    Descripcion Cuenta: AccrCommission Direct 1st Yr E
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6162731450':
+    Descripcion Cuenta: AccrCEDED Renewal Comm
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271503 - Reinsurance Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6163000420':
+    Descripcion Cuenta: Commission Single Pay- Manager
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6165000060':
+    Descripcion Cuenta: Comm-Bonus Incentive
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271502 - First Yr, Renewal & Single Pay
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6161031300':
+    Descripcion Cuenta: CEDED 1st Yr Comm
+    Agrupacion P&L: Commissions;
+    Roll Up: 2271503 - Reinsurance Commissions
+    "Agrupaci\xF3n UM": 6160000000 - Commissions
+  '6967000050':
+    Descripcion Cuenta: Business Property Tax
+    Agrupacion P&L: Premium taxes Other Taxes and Licenses & Fees;
+    Roll Up: 2278502 - Oth Taxes Licenses & Fees
+    "Agrupaci\xF3n UM": PREMIUM_TAXES - Premium & Other Taxes
+  '6101000210':
+    Descripcion Cuenta: Executive Training
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261003 - Other EE Costs
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6461000230':
+    Descripcion Cuenta: IT Programmers-Staff Suppl
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271101 - Programmers
+    "Agrupaci\xF3n UM": OPEXP60126 - Consultants & Programmers
+  '6461000360':
+    Descripcion Cuenta: UCI NonOp Severance
+    Agrupacion P&L: Business combination costs;
+    Roll Up: 2275350 - DIRECT Corporate Initiatives
+    "Agrupaci\xF3n UM": Non Operative Expenses
+  '6871000190':
+    Descripcion Cuenta: Int_exp audt issues FIN-48
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278006 - Other Noncontrollable
+    "Agrupaci\xF3n UM": 6480000000 - Legal Settlements-Reserve Chg
+  '6451000100':
+    Descripcion Cuenta: Legal-Policy & Investigative
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6301000050':
+    Descripcion Cuenta: Planning Svs Exps-Conferences
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278000 - Travel
+    "Agrupaci\xF3n UM": DISCRETIONARY_EXP - Total Discretionary Expenses
+  '6481000160':
+    Descripcion Cuenta: Facilities Mgmt - Leased
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2278005 - Rent and related expenses
+    "Agrupaci\xF3n UM": RENT_RELATED - Rent & Related Expenses
+  '6721000310':
+    Descripcion Cuenta: Other Audit Fees Non Deloitte
+    Agrupacion P&L: Other Operating Expenses;
+    Roll Up: 2271104 - Other Labor
+    "Agrupaci\xF3n UM": OPEXP60127 - Other Professional Service
+  '6101000130':
+    Descripcion Cuenta: Pasantes
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261000 - Compensation
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
+  '6151000020':
+    Descripcion Cuenta: Incentivo corporativo
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261004 - Corporate Incentive
+    "Agrupaci\xF3n UM": OPEXP60145 - Corporate Incentive
+  '6131000100':
+    Descripcion Cuenta: Beneficios al Personal
+    Agrupacion P&L: Compensation (Non Sales EE);
+    Roll Up: 2261001 - Benefits & Payroll Taxes
+    "Agrupaci\xF3n UM": EMPLOYEE_COSTS - Total Employee Costs
