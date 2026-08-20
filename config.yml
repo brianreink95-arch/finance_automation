@@ -11,7 +11,8 @@ files:
   filtros_exact_name: "Filtros Consolidado.xlsx"
   accounts_config_name: "accounts_config.yml"
   template_pl_name: "P&L ARG.xlsx"
-  forecast_input_name: "Forecast_Marzo.xlsx"
+  # El nombre se resuelve según el nombre del mes.
+  forecast_input_name: "Forecast_{month_name}.xlsx"
   nii_prefix: "ARG_NII_HYP"
   expenses_prefix: "ARG_EXPENSES_HYP"
   taxes_prefix: "ARG_INCOMETAX_HYP"

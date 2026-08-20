@@ -78,6 +78,14 @@ El script requiere obligatoriamente el **año** y el **mes numérico** como argu
 python main.py --year 2025 --month 8
 ```
 
+Para Task 5, el nombre del forecast se puede parametrizar en `config.yml` usando `{year}`, `{month_num}`, `{month}` y `{month_name}`. Por ejemplo:
+
+```yaml
+forecast_input_name: "Forecast_{month_name}.xlsx"
+```
+
+Con `--year 2025 --month 8`, el programa buscará `Forecast_Agosto_2025.xlsx`.
+
 ### 2.4. Generar Config De Cuentas
 
 Task 5 usará un archivo local con todas las cuentas únicas de la hoja `Accounts` del archivo `Filtros Consolidado.xlsx`.

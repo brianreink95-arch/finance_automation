@@ -54,6 +54,21 @@ def _month_folder_name(month: int) -> str:
     return f"{str(month).zfill(2)} - {MESES_ESPANOL[month]}"
 
 
+def _forecast_file_name(year: int, month: int) -> str:
+    try:
+        return NAME_FORECAST_INPUT.format(
+            year=year,
+            month_num=str(month).zfill(2),
+            month=month,
+            month_name=MESES_ESPANOL[month],
+        )
+    except KeyError as error:
+        raise ValueError(
+            f"❌ Variable no soportada en forecast_input_name: {{{error.args[0]}}}. "
+            "Usa {year}, {month_num}, {month} o {month_name}."
+        ) from error
+
+
 def setup(year: int, month: int) -> None:
     if not year or not month:
         raise ValueError("❌ Error de Configuración: Debes especificar 'year' y 'month'.")
@@ -67,6 +82,6 @@ def setup(year: int, month: int) -> None:
 
     INPUT_DIR = TASK5_DIR / YEAR / MONTH
     OUTPUT_DIR = INPUT_DIR / _CFG["paths"]["output_subfolder"]
-    FILE_FORECAST = INPUT_DIR / NAME_FORECAST_INPUT
+    FILE_FORECAST = INPUT_DIR / _forecast_file_name(year, month)
     FILE_TASK2_REPORT_PL = TASK2_DIR / YEAR / MONTH / _CFG["paths"]["output_subfolder"] / NAME_OUTPUT_PL
     FILE_OUTPUT_PL = OUTPUT_DIR / NAME_OUTPUT_PL
